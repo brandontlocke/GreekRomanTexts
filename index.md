@@ -1,3 +1,5 @@
+[Today's slides are here](https://docs.google.com/presentation/d/1bSSdl_B1MVvqS3iNaxLDnKLfehyY9Z9rcPml14r7Tpg/edit?usp=sharing)
+
 ## Results
 These were created using [Topic Modeling Tool](https://github.com/senderle/topic-modeling-tool), a simple GUI tool that uses [Mallet](http://mallet.cs.umass.edu/) to create topic models. These were created with 40 topics.
 
