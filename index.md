@@ -8,6 +8,6 @@ These were created using [Topic Modeling Tool](https://github.com/senderle/topic
 - [Zipped corpus](https://github.com/brandontlocke/GreekRomanTexts/tree/master/corpus.zip)
 
 ## About the texts
-All texts taken from the Internet Ancient History Sourcebook: https://sourcebooks.fordham.edu/Halsall/ancient/asbookfull.asp
+All texts taken from the [Internet Ancient History Sourcebook](https://sourcebooks.fordham.edu/Halsall/ancient/asbookfull.asp). It includes all of the English-language texts hosted by IAHS that are either *Greek Philosophers* or *Roman Thinkers*.
 
 Large introductory paragraphs (from translated editions) have been removed, but some paratext remains.
