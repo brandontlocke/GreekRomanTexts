@@ -3,6 +3,8 @@
 ## Wednesday - Distant Reading
 Download [Voyant Server](https://github.com/sgsinclair/VoyantServer/releases/download/2.4.0-M3/VoyantServer2_4-M4.zip) (this will immediately start a download)
 
+[Slides here](https://docs.google.com/presentation/d/1zVMyhSPs0_nTiIVfKZgHQssXRxppL8Dzc7z9jcvBKGU/edit?usp=sharing)
+
 [Voyant class activity instructions are here](https://docs.google.com/document/d/1qs6oNpctJ1rkSobyANdeWe8C8phcce9pWgowgm8MeiQ/edit?usp=sharing)
 
 Make sure you download the text corpus before starting the activity.
